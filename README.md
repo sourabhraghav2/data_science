@@ -1,2 +1,2 @@
 # data_science
-Learning and experiment
+Learning and experiments
